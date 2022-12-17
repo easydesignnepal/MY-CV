@@ -1,0 +1,21 @@
+body {
+    background-color: #a5dbdb;
+}
+h1 {
+color: #042d2d
+}
+h6 {
+    color:rgb(28, 66, 54)
+}
+hr { 
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(197, 185, 185);
+    border-width: 5px;
+    width: 5%;
+}
+
+img{
+transform: rotate(90deg);
+width: 150px;
+}
